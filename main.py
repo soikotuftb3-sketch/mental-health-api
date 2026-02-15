@@ -94,7 +94,7 @@ joblib.dump(scaler, "scaler.pkl")
 
 print("\n✅ Model Saved Successfully!")
 
-pip install fastapi uvicorn joblib numpy pandas scikit-learn
+
 
 from fastapi import FastAPI
 from pydantic import BaseModel
