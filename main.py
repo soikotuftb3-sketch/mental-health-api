@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1SUM_MEUruyyj_D3Jn7yuPljiMZqIXj-P
 """
 
-!pip install scikit-learn pandas numpy joblib
 
 import pandas as pd
 import numpy as np
